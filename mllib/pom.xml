@@ -109,6 +109,11 @@
       <type>test-jar</type>
       <scope>test</scope>
     </dependency>
+      <dependency>
+          <groupId>net.ruippeixotog</groupId>
+          <artifactId>think-bayes_2.11</artifactId>
+          <version>0.1</version>
+      </dependency>
   </dependencies>
   <profiles>
     <profile>
